@@ -1,0 +1,8 @@
+{
+    "nome" : "melo",
+    "idade" : 20,
+    "profissao" : {
+        "cargo" : "professor",
+        "cargo2" : "artesão"
+    }
+}
